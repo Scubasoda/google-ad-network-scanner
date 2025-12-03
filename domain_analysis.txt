@@ -1,0 +1,900 @@
+--- Domain: allcryptonews.net ---
+Failed to extract content.
+
+--- Domain: auscryptocon.com ---
+1. AusCryptoCon is a large-scale cryptocurrency and blockchain conference scheduled for 22-23 Nov 2025 at Sydney’s ICC, promising 10,000+ attendees, 1,000+ companies, multiple stages, and a super-yacht after-party.  
+2. Yes – the entire event is centered on cryptocurrency, blockchain investing, and start-up pitching.  
+3. Appears legitimate: it names a real venue (ICC Sydney), lists past well-known speakers (Kieran Warwick, Luke Lambe), quotes verifiable executives, and offers verifiable ticket purchase links; no obvious scam red-flags.  
+4. No email addresses or social-media handles are shown in the supplied text.
+
+--- Domain: crypto-recovery.ch ---
+Failed to extract content.
+
+--- Domain: crypto4a.com ---
+1. Crypto4A is a Canadian cybersecurity company that builds quantum-safe Hardware Security Modules (HSMs) and secrets-management appliances (QxVault™) for governments, defense, and large enterprises so they can protect cryptographic keys and digital identities against future quantum-computing threats.
+
+2. No – the site is about cryptographic hardware/security appliances, not trading or investing in cryptocurrencies.
+
+3. Appears legitimate: the company lists a Canadian headquarters, names real products (QxHSM™, QxVault™), cites Gartner analyst coverage, shows recent press releases with named partners (KQC, eMudhra), and provides a straightforward contact form instead of hype-driven token sales or guaranteed-return claims.
+
+4. No email addresses or social-media handles are displayed in the supplied text; only a web contact form is offered.
+
+--- Domain: cryptobuckaroo.com ---
+1. Crypto Buckaroo is a blog-style site that mixes Wild-West metaphors with crypto-market commentary, tracking price moves, crashes, and “frontier lessons” while stressing it is “not financial advice.”
+
+2. Yes – the entire focus is cryptocurrency trading, price action, and investing commentary.
+
+3. Potentially suspicious / low-trust. No company name, address, author identity, or verifiable credentials are given; the site only offers generic disclaimers and no regulatory disclosures typical of legitimate financial publishers.
+
+4. No email address, phone number, or social-media links appear anywhere in the supplied content.
+
+--- Domain: cryptocaddy.us ---
+1. CryptoCaddy is a U.S.-based company that sells Bitcoin ASIC miners and offers colocation/hosting services out of a 26 MW data-center in Michigan, advertising $0.075/kWh power and 98.8 %+ uptime.
+
+2. Yes – the entire site is about cryptocurrency (Bitcoin) mining hardware and hosting.
+
+3. Appears legitimate: gives a specific physical location (Michigan, USA), names pool partners, shows detailed facility specs, quotes real-time customer metrics, and provides a portal/login system. No obvious red-flags such as guaranteed returns or anonymous team.
+
+4. No email addresses or social-media links are visible in the supplied text; only an on-page “Chat” widget is mentioned.
+
+--- Domain: cryptoconnectglobal.com ---
+1. CryptoConnectGlobal.com presents itself as a worldwide provider of paid cryptocurrency education, one-on-one technical support, hardware-wallet training, trading courses, tax-prep help and scam-investigation consultations.
+
+2. Yes – the entire site is focused on cryptocurrency, trading and investing services.
+
+3. Potentially suspicious. No company registration number, office address, named principals, or verifiable social-media presence is given; testimonials are generic and unverifiable; and the only way to engage is to “book a complimentary consultation,” a common funnel for high-pressure up-sales or advance-fee scams. The absence of transparency and independent reviews outweighs the polished marketing copy.
+
+4. No email address, phone number, or links to social-media accounts appear anywhere in the supplied text.
+
+--- Domain: cryptoconsultinginstitute.com ---
+1. Crypto Consulting Institute is an Australian-based education and coaching business that sells high-ticket crypto “VIP” programs, newsletters and masterminds, claiming to have turned everyday investors into multi-millionaires since 2016.
+
+2. Yes – the entire site is about cryptocurrency investing/trading education and paid signal services.
+
+3. Appears suspicious / high-risk. Classic red-flag pattern: no verifiable corporate or financial-license details, only first-name testimonials with extraordinary 7,500 % returns in months, heavy scarcity (“only 15 spots”), no physical address or ABN/ASIC reference, and the disclaimer admits it is “not financial advice.” These are hallmarks of marketing-heavy “edu-signal” schemes that often end in losses.
+
+4. No direct email addresses shown. Social links extracted from footer:  
+   Facebook: facebook.com/cryptoconsultinginstitute  
+   LinkedIn: linkedin.com/company/cryptoconsultinginstitute  
+   Instagram: instagram.com/cryptoconsultinginstitute  
+   WhatsApp & Facebook-Messenger icons are present but no usernames/numbers given.
+
+--- Domain: cryptoculture.com.au ---
+1. CryptoCulture is an Australian e-commerce store that sells crypto-themed merchandise—T-shirts, hoodies, collectable coins, neon signs, mugs, mouse pads, keyrings, etc.—all branded around Bitcoin and other popular cryptocurrencies.
+
+2. No. It only sells novelty apparel and gifts; it does not offer cryptocurrency trading, investing, wallets, or financial services.
+
+3. Appears legitimate. The site uses standard Shopify checkout, lists familiar payment providers (PayPal, Apple Pay, Google Pay, Visa, etc.), ships from Australian stock (no dropshipping), and shows plausible customer reviews. No obvious red-flags such as guaranteed returns, investment promises, or anonymous ownership.
+
+4. No email addresses or social-media links are visible in the supplied content.
+
+--- Domain: cryptodaily.co.uk ---
+1. CryptoDaily.co.uk is a U.K.-based cryptocurrency news portal that publishes round-the-clock articles on Bitcoin, alt-coins, blockchain business developments, market analysis, and sponsored press releases.
+
+2. Yes – the entire site is devoted to cryptocurrency, trading, and investing topics.
+
+3. Appears legitimate: the site functions as a standard news/blog platform (no obvious “get-rich-quick” scams), articles carry author by-lines, and it includes a normal cookie-consent banner and privacy policy. The heavy mix of press-release-style “PR” items is typical for crypto media but not inherently fraudulent.
+
+4. No contact email or social-media handles are visible in the supplied content.
+
+--- Domain: cryptoequate.com ---
+Failed to extract content.
+
+--- Domain: cryptofundresearch.com ---
+1. CryptoFundResearch.com sells subscription access to a proprietary database that claims to profile 800+ crypto hedge-funds and venture-capital funds, plus performance data for 300+ of them, marketed to institutional investors, founders and researchers.
+
+2. Yes – the entire offering revolves around cryptocurrency funds, trading and investing intelligence.
+
+3. Appears legitimate: lists a verifiable San Francisco street address and a toll-free U.S. phone number, gives a plain “@cryptofundresearch.com” email, states that performance data is sold only to accredited investors, and has no obvious red-flags such as guaranteed returns or anonymous team. Still, prospective buyers should independently verify sample data and company registration before paying.
+
+4. Contact email: info@cryptofundresearch.com  
+Social links: “Follow” buttons for Twitter, LinkedIn and Facebook are shown (exact URLs not displayed in the text).
+
+--- Domain: cryptoindustry.com ---
+1. CryptoIndustry.com is a directory-style portal that lists thousands of cryptocurrency and blockchain companies, upcoming industry events, and “influencer” Twitter accounts, positioning itself as a one-stop “crypto industry portal.”
+
+2. Yes – every section (companies, events, influencers) is explicitly about cryptocurrency, blockchain, DeFi, NFTs, trading, or related investing activities.
+
+3. Appears legitimate: the site simply aggregates public information (company profiles, event dates, Twitter handles), offers free e-mail newsletter sign-up, and sells premium/advertising placement rather than asking users to deposit funds or connect wallets. No obvious scam red-flags (no guaranteed returns, no wallet-draining scripts, no fake testimonials).
+
+4. No contact e-mail addresses or direct social-media links are shown in the supplied content; only a newsletter subscription form and buttons to “Upgrade to Premium” / “View Advertising Options.”
+
+--- Domain: cryptoinvestigatortraining.com ---
+1. The site sells a self-paced, online “Certified Cryptocurrency Investigator” (CCI/CCIA) training program created by Blockchain Intelligence Group; it teaches compliance officers, law-enforcement and forensic analysts how to trace crypto transactions, dark-web activity and blockchain crime.
+
+2. Yes – the entire offering is about cryptocurrency, blockchain forensics and crypto-related investigations.
+
+3. Appears legitimate. The curriculum is attributed to a known company (Blockchain Intelligence Group), prices and refund terms are shown, and testimonials come from verifiable professionals at Morgan Stanley, Coinbase, EY, Deloitte, Bitfinex, etc. No obvious red-flags such as guaranteed returns, fake team pages, or anonymous registration.
+
+4. No email addresses or social-media links are visible in the supplied text.
+
+--- Domain: cryptolinc.com ---
+1. The site claims to offer “total support” for calculating profits/losses on cryptocurrency holdings (暗号資産の収支計算).  
+2. Yes – it explicitly mentions cryptocurrency (暗号資産 / 仮想通貨).  
+3. Cannot determine legitimacy from the single headline alone; no company details, address, regulatory disclosures, or customer evidence are provided, so it should be treated as potentially suspicious until more verifiable information appears.  
+4. No contact email or social-media link is visible in the supplied text.
+
+--- Domain: cryptolinks.com ---
+1. CryptoLinks is a large, link-aggregator / review site that catalogs and ranks hundreds of cryptocurrency services—exchanges, mining pools, trading bots, charting tools, Web3 projects, ad networks, etc.—and publishes short “is it safe?” style reviews for each one.
+
+2. Yes – the entire site is focused on cryptocurrency, trading and investing services.
+
+3. Appears legitimate. The domain has been around since 2017, content is free, no obvious wallet-draining scripts or “send funds” prompts, and reviews link out to real third-party platforms. The only minor red-flag is heavy affiliate tagging on outbound links (typical for review sites), so bias is possible, but it does not look like an outright scam.
+
+4. No email addresses or social-media handles are visible in the supplied page excerpt.
+
+--- Domain: cryptometagm.xyz ---
+1. CryptoMetaGM.xyz is pitching itself as a “developer-first” toolkit for building high-frequency / memecoin trading bots on Solana. It sells NFT passes that unlock premium open-source code, tutorials, and a private “Command Center HQ.”
+
+2. Yes – the entire offering revolves around cryptocurrency trading and automated bot development.
+
+3. Potentially suspicious.  
+   - No company name, street address, phone, or identifiable team; only an anonymous X handle.  
+   - Revenue model is “buy our NFT to get the real code,” a common pattern in rug-pull or pump-and-dump schemes.  
+   - Promises “zero platform fees” and “winning tools” without verifiable performance or legal disclaimers.  
+   - Roadmap stretches to 2025 but no evidence of incorporated entity, audits, or regulatory compliance.
+
+4. Contact / social:  
+   - X (Twitter): @cryptometagm  
+   - No email address is shown; the site only has a newsletter signup box.
+
+--- Domain: cryptomus.com ---
+1. Cryptomus.com is a centralized cryptocurrency exchange that lets users buy, sell, and trade digital assets via spot markets, P2P, card purchases, and API trading, while also offering referral / affiliate / market-maker programs.
+
+2. Yes – the entire site is focused on cryptocurrency trading and investing.
+
+3. Appears legitimate: it presents a coherent product (exchange), lists specific trading features (API, P2P, card on-ramps, market-maker rebates), and gives plausible risk/disclosure language. No obvious scam red-flags (guaranteed returns, fake testimonials, anonymous team) surface in the supplied text, but standard due-diligence (checking for registration, audit reports, team pages, user reviews) is still recommended before depositing funds.
+
+4. No contact email addresses or social-media links are visible in the provided content.
+
+--- Domain: cryptonary.com ---
+1. Cryptonary presents itself as a provider of crypto research and tools, promising to make cryptocurrency “easy” for users.  
+2. Yes – the site is explicitly focused on cryptocurrency.  
+3. Appears potentially suspicious: the homepage shows only a tag-line with zero company details, team names, legal disclaimers, or verifiable address; this near-total lack of transparency is a common red flag for crypto scams.  
+4. No email addresses or social-media links could be found in the supplied content.
+
+--- Domain: cryptopida.com ---
+1. The site is currently returning a generic “403 – Forbidden” error page, so no actual content or service description is visible.  
+2. No – with nothing but a 403 message shown, there is no indication it is about cryptocurrency, trading, or investing.  
+3. Cannot determine legitimacy; the entire domain is blocked to the public, which is unusual for a genuine business but could also just mean the site is down or under construction.  
+4. No contact emails or social-media links are present on the 403 page.
+
+--- Domain: cryptorescueexperts.com ---
+1. Crypto Rescue Experts claims to help victims of crypto, FX-trading and romance scams recover their lost money through investigative and legal services, operating on a “no-win, no-fee” basis.
+
+2. Yes – the site is entirely focused on cryptocurrency (and related trading) fund recovery.
+
+3. Potentially suspicious / high-risk. Classic “recovery scam” red-flags: no company address, no named staff, no verifiable regulatory or legal credentials, generic wording, heavy use of urgency (“Reclaim My Assets Now”), and the business model requires victims to pay upfront fees/commissions after a “free consultation” – a common set-up for secondary fraud.
+
+4. No email addresses, phone numbers, or social-media links are shown in the supplied text.
+
+--- Domain: cryptoresearch.com.au ---
+1. CryptoResearch.com.au presents itself as “Australia’s Most Trusted Crypto Research Platform,” offering paid research reports, early-stage crypto tips, and a concierge-style brokerage/setup service aimed at helping Australians “invest smarter, safer, and easier.”
+
+2. Yes – the entire site is focused on cryptocurrency research, trading and investing.
+
+3. Appears legitimate but exercise caution: it displays trust indicators (7+ years, 250+ reports, $300 M claimed client gains, affiliated partners) yet gives no verifiable company details (ABN, ACN, address, ASIC license, disclaimers). The only call-to-action is a “Book a Discovery Call” form that collects personal data before any legal docs are shown—typical of high-pressure sales funnels. Treat as “unlicensed advice” until proven otherwise.
+
+4. No email addresses or social-media links are visible in the supplied content.
+
+--- Domain: allcryptonews.net ---
+Failed to extract content.
+
+--- Domain: auscryptocon.com ---
+Failed to extract content.
+
+--- Domain: allcryptonews.net ---
+Failed to extract content.
+
+--- Domain: allcryptonews.net ---
+Failed to extract content.
+
+--- Domain: auscryptocon.com ---
+Failed to extract content.
+
+--- Domain: allcryptonews.net ---
+1. The site is unreachable; Cloudflare is displaying a generic DNS-resolution error page instead of any actual content from allcryptonews.net.
+
+2. No – because the domain is not serving any content, we can’t confirm it is (or was) about cryptocurrency, trading, or investing.
+
+3. Cannot determine legitimacy – the domain is simply mis-configured or offline, so there is no business information, content, or red-flag copy to evaluate.
+
+4. No contact email or social-media link is shown on the error page.
+
+--- Domain: auscryptocon.com ---
+1. AusCryptoCon is a large-scale cryptocurrency and blockchain conference scheduled for 22-23 Nov 2025 at Sydney’s ICC, targeting 10,000+ attendees, 1,000+ companies and 150+ speakers, plus a $1 M pitch competition and super-yacht after-party.
+
+2. Yes – the entire site is about cryptocurrency, blockchain and related investing/start-up funding.
+
+3. Appears legitimate: it names a verifiable venue (ICC Sydney), lists past well-known speakers (Kieran Warwick – Illuvium, Luke Lambe – Faculty Group), shows 2025 title sponsors, and offers verifiable ticketing; no obvious scam red-flags such as guaranteed returns or anonymous team.
+
+4. No email addresses or social-media links are displayed in the supplied content.
+
+--- Domain: crypto-recovery.ch ---
+1. The site is currently only showing Cloudflare’s “browser check” page; no actual content about the service is visible.  
+2. Yes – the domain name “crypto-recovery” implies it deals with cryptocurrency.  
+3. Can’t tell yet; the real site never loaded, so there is no evidence of either legitimacy or fraud.  
+4. No contact emails or social-media links are present in the displayed text.
+
+--- Domain: allcryptonews.net ---
+1. The site is unreachable; Cloudflare is serving a generic “DNS resolution error” page instead of any actual content, so no editorial material is visible.
+
+2. No – because no content loads, we can’t confirm it is about cryptocurrency, trading, or investing.
+
+3. Cannot judge legitimacy; the domain is simply mis-configured (DNS failure). There is no evidence of scam or of a real business—just a technical error.
+
+4. No contact e-mail addresses or social-media links appear on the error page.
+
+--- Domain: auscryptocon.com ---
+1. AusCryptoCon is a two-day cryptocurrency and blockchain conference scheduled for 22-23 Nov 2025 at Sydney’s ICC, billing itself as the Southern Hemisphere’s largest crypto event with 10,000+ expected attendees, multiple stages, and a super-yacht after-party.
+
+2. Yes – the entire site is about cryptocurrency, blockchain, trading, and investing.
+
+3. Appears legitimate: it names a real venue (ICC Sydney), lists prior well-known speakers (Kieran Warwick of Illuvium, Luke Lambe of Faculty Group), shows past attendee testimonials, and offers verifiable sponsorship/speaker applications. No obvious red-flags like anonymous teams or guaranteed investment returns.
+
+4. No direct email or social-media handles are displayed in the supplied text; only a newsletter sign-up form is present.
+
+--- Domain: crypto-recovery.ch ---
+1. The page shows only a Cloudflare “Just a moment…” interstitial, so no actual site content is visible.  
+2. Cannot tell – no content to indicate crypto/trading/investing.  
+3. Looks suspicious: the domain name “crypto-recovery” is a classic scam keyword, and the site is currently just a security-check splash page, often used by newly-registered or taken-down fraud domains.  
+4. No contact emails or social-media links found on the visible page.
+
+--- Domain: crypto4a.com ---
+1. Crypto4A is a Canadian cybersecurity company that builds quantum-safe Hardware Security Modules (HSMs) and secrets-management appliances (QxVault™) for governments, defense, and enterprises that need post-quantum cryptographic protection and sovereign control of keys.
+
+2. No – the site is about enterprise-grade cryptographic hardware and key-management, not about trading, investing, or speculative cryptocurrencies.
+
+3. Appears legitimate: the company lists a Canadian engineering/manufacturing location, cites named partners (KQC, eMudhra/CertiNext), references multiple 2025 Gartner reports, and offers verifiable hardware products rather than anonymous tokens or high-yield promises. No obvious scam red-flags.
+
+4. No email addresses or social-media links are shown in the supplied text; only a generic “Contact sales team” web form is provided.
+
+--- Domain: cryptobuckaroo.com ---
+1. Crypto Buckaroo is a blog-style site that mixes Wild-West metaphors with short, opinionated posts about recent crypto-market moves (Bitcoin crashes, alt-coin bounces, etc.) and openly states that the author trades on Binance “for fun.”
+
+2. Yes – every post is about cryptocurrency price action, trading, or investing.
+
+3. Potentially suspicious / low-trust. The site gives no company name, no named author, no physical address, no contact email, no regulatory disclosures, and ends with a “not financial advice” disclaimer—classic hallmarks of an anonymous, unregulated signal/blog site that could easily pivot to shilling paid groups or referral schemes.
+
+4. No email address, Telegram, Twitter, Discord, or other social-media links appear anywhere in the supplied text.
+
+--- Domain: cryptocaddy.us ---
+1. CryptoCaddy is a U.S.-based company that sells Bitcoin ASIC miners and offers professional colocation/hosting in a 26 MW Michigan data-center, advertising $0.075/kWh “smart-billing” and 98.8% uptime.
+
+2. Yes – the entire site is about cryptocurrency mining (hardware sales + hosting).
+
+3. Appears legitimate: gives a physical location (Michigan), names mining-pool partners, shows detailed service terms, has customer testimonials, and provides a portal/login system. No obvious scam red-flags, but verify the facility and contracts before sending money/miners.
+
+4. No email addresses or social-media links are visible in the supplied text; only a web-chat widget (“Chat”) is mentioned.
+
+--- Domain: cryptoconnectglobal.com ---
+1. Crypto Connect Global presents itself as an international provider of paid cryptocurrency education, one-on-one technical support, hardware-wallet training, trading courses, scam-investigation consultations and crypto-tax help.
+
+2. Yes – the entire site is focused on cryptocurrency, trading and investing services.
+
+3. Potentially suspicious. While the copy is polished, the business offers only vague “book a complimentary consultation” calls-to-action, provides no verifiable company address, regulatory licence, team names, or public social-media links, and relies entirely on anonymous testimonials. These are common red flags for pay-up-front coaching/crypto “education” schemes that may over-promise and under-deliver.
+
+4. No email addresses, phone numbers, or social-media accounts are displayed anywhere in the supplied content.
+
+--- Domain: cryptoconsultinginstitute.com ---
+1. The page is a generic “Just a moment…” Cloudflare browser-check splash screen; it reveals nothing about what the site actually offers.
+
+2. Yes – the domain name “cryptoconsultinginstitute.com” explicitly references cryptocurrency.
+
+3. Can’t tell from this placeholder alone. A real Cloudflare check is neutral (neither proof of legitimacy nor evidence of fraud), so no red flags are visible yet, but no trust signals either.
+
+4. No contact emails or social-media links appear on the captured screen.
+
+--- Domain: cryptoculture.com.au ---
+1. CryptoCulture is an Australian online store that sells crypto-themed merchandise—T-shirts, hoodies, jewelry, neon signs, mugs, mouse pads, etc.—all branded with Bitcoin, Ethereum, Doge, XRP, Shiba-Inu and other coin logos.
+
+2. Yes – the entire catalogue is cryptocurrency-related.
+
+3. Appears legitimate: prices are modest, it accepts normal card payments plus crypto, states “NO DROPSHIPPING – ALL AUSTRALIAN STOCK”, shows customer reviews, and uses standard Shopify checkout with PayPal/Shopify fraud protection. No investment promises or “get-rich” claims are present.
+
+4. No email address or social-media links are visible in the supplied text.
+
+--- Domain: cryptodaily.co.uk ---
+1. The page shows only a generic “Just a moment…” browser-check splash screen, so no editorial content is visible.  
+2. Yes – the domain name “cryptodaily.co.uk” strongly implies it covers cryptocurrency topics.  
+3. Cannot determine legitimacy from this single splash page; it is common for both real sites and scams to use Cloudflare-style browser checks, so more content would be needed to judge.  
+4. No contact emails or social-media links are present in the visible source.
+
+--- Domain: cryptoequate.com ---
+Failed to extract content.
+
+--- Domain: cryptofundresearch.com ---
+1. Crypto Fund Research sells subscription access to a hand-curated database of 800+ crypto hedge-funds and VC firms, plus performance analytics, aimed at founders and institutional investors.
+
+2. Yes – the entire offering is cryptocurrency-focused.
+
+3. Appears legitimate: lists a real San Francisco street address, a U.S. toll-free phone number, a professional domain email, claims weekly data updates, and positions itself as a paid research service rather than promising investment returns or asking for deposits.
+
+4. Contact email: info@cryptofundresearch.com  
+   Social links: “Follow” icons are shown (Twitter/X, LinkedIn, Facebook) but no explicit URLs are given in the text.
+
+--- Domain: cryptoindustry.com ---
+1. CryptoIndustry.com is a directory-style portal that aggregates and showcases thousands of crypto/blockchain companies, upcoming industry events, and influencer profiles, positioning itself as a “one-stop shop” for discovering the crypto ecosystem.
+
+2. Yes – the entire site is focused on cryptocurrency, blockchain, trading, DeFi, NFTs, Web3, and related investing services.
+
+3. Appears legitimate. The site simply lists third-party companies/events, offers free e-mail newsletter sign-up, and does not ask visitors to deposit funds or connect wallets. No obvious scam red-flags (no guaranteed returns, no fake testimonials, no anonymous team). However, as with any paid directory, verify any company independently before transacting.
+
+4. No contact e-mail addresses or social-media links are displayed in the scraped content.
+
+--- Domain: cryptoinvestigatortraining.com ---
+1. The site sells a self-paced, online “Certified Cryptocurrency Investigator” (CCI) training program created by Blockchain Intelligence Group; it teaches compliance officers, law-enforcement and forensic analysts how to trace crypto transactions, dark-web activity and blockchain crime.
+
+2. Yes – the entire offering is about cryptocurrency, blockchain forensics and crypto-related crime investigation.
+
+3. Appears legitimate. The curriculum is attributed to a known company (Blockchain Intelligence Group), prices and module outlines are clearly listed, and testimonials come from verifiable professionals at Morgan Stanley, Coinbase, EY, Bitfinex, Deloitte, etc. No obvious red-flags such as guaranteed returns, fake endorsements or anonymous ownership.
+
+4. No email addresses or social-media links are visible in the supplied text.
+
+--- Domain: cryptolinc.com ---
+1. CryptoLinc positions itself as a Japanese-language service that offers “total support” for calculating profits/losses on cryptocurrency holdings—essentially a crypto tax/accounting tool.
+
+2. Yes – the entire pitch is about cryptocurrency bookkeeping and tax reporting.
+
+3. Appears legitimate but thin: the single line of copy is professional, uses the proper Japanese term “暗号資産,” and there are no obvious scam red-flags; however, with no company address, team page, or legal footer, it’s impossible to verify legitimacy from this snippet alone.
+
+4. No email addresses or social-media links are visible in the supplied text.
+
+--- Domain: cryptolinks.com ---
+1. CryptoLinks is a curated directory that ranks and reviews cryptocurrency-related websites—exchanges, mining pools, trading bots, charting tools, Web3 projects and advertising networks—so users can quickly find “trusted” resources without doing their own research.
+
+2. Yes – the entire site is focused on cryptocurrency, trading and investing services.
+
+3. Appears legitimate: content is editorial-style reviews (not hype or promises of guaranteed returns), no wallet-connection requests, no “investment packages,” and it simply links out to third-party platforms. Lack of an imprint, team page, or visible company details is the only minor red-flag, but nothing overtly scammy is present.
+
+4. No email addresses or social-media links are shown in the supplied text.
+
+--- Domain: cryptometagm.xyz ---
+1. CryptoMetaGM.xyz markets itself as a developer-centric platform that provides open-source trading tools and tutorials for building high-performance DEX bots on Solana, with access gated by purchasing an NFT.
+
+2. Yes – the entire site is focused on cryptocurrency trading, specifically memecoin/DEX trading on Solana.
+
+3. Potentially suspicious. The project offers no company address, no named team, no legal entity, and no verifiable security or licensing information. Access is sold only through an NFT (“Crypto Bot Army”) with vague promises of “premium” code and future AI features—classic red flags for NFT-gated pump-and-dump or rug-pull schemes.
+
+4. Contact: Twitter/X handle only → @cryptometagm (no email or other social links found).
+
+--- Domain: cryptomus.com ---
+1. Cryptomus.com is a cryptocurrency exchange that lets users buy, sell, and trade digital assets; it also offers P2P trading, card purchases, and several revenue-sharing partnership/affiliate programs.
+
+2. Yes – the entire site is focused on cryptocurrency trading and investing.
+
+3. Appears legitimate: it presents standard exchange features (markets, API, liquidity claims), lists multiple partnership tiers, and provides an APK download. However, no company address, regulatory license, or live-support details are visible in the supplied text, so normal due-diligence (checking registration, reviews, proof-of-reserves, etc.) is still advisable.
+
+4. No contact email addresses or social-media links are shown in the provided content.
+
+--- Domain: cryptonary.com ---
+1. Cryptonary.com positions itself as a provider of crypto research and tools, promising to make cryptocurrency “easy” for users.
+
+2. Yes – the site is explicitly focused on cryptocurrency.
+
+3. Appears potentially suspicious. The only visible content is a six-word tagline; there is no company address, team information, legal disclaimers, or verifiable social-proof. Legitimate crypto services normally publish white-papers, terms of service, or at least an “About” page.
+
+4. No contact email or social-media links could be found in the supplied content.
+
+--- Domain: cryptopida.com ---
+1. The site is currently returning a generic “403 – Forbidden” error page, so no actual content or business description is visible.  
+2. No – with no accessible content, there is no indication it is related to cryptocurrency, trading, or investing.  
+3. Cannot determine legitimacy; the entire domain is blocked to public access, which is unusual for a genuine operating business and could signal an abandoned, mis-configured, or intentionally hidden site.  
+4. No contact email or social-media link is present on the 403 error page.
+
+--- Domain: cryptorescueexperts.com ---
+1. Crypto Rescue Experts claims to help victims of crypto, FX-trading and romance scams recover lost money through “cutting-edge” investigations and a “no-win, no-fee” model.
+
+2. Yes – the entire pitch is about cryptocurrency (and related) fraud recovery.
+
+3. Potentially suspicious / high-risk. Classic “asset-recovery” template: no company address, no named staff, no verifiable regulatory or corporate registration, no case studies, and the only action requested is that you hand over personal contact details. These are common hallmarks of follow-up advance-fee scams that target people who have already lost money.
+
+4. No email address, phone number, or social-media link is displayed in the supplied text; the site only shows a web form asking for “Name” and “Phone number.”
+
+--- Domain: allcryptonews.net ---
+1. The site is unreachable; Cloudflare is returning a DNS resolution error, so no actual content is visible—only an error page.  
+2. Yes – the domain name “allcryptonews.net” implies it was intended to cover cryptocurrency news.  
+3. Cannot judge legitimacy – the domain may simply be mis-configured or expired, but there is no evidence of scam activity (or of any real business) since no real site content loads.  
+4. No contact email or social-media links appear on the error page.
+
+--- Domain: auscryptocon.com ---
+1. AusCryptoCon is a two-day cryptocurrency and blockchain conference scheduled for 22-23 Nov 2025 at Sydney’s ICC, billing itself as the Southern Hemisphere’s largest crypto event with 10,000+ expected attendees, 1,000+ companies, multiple stages, and a super-yacht after-party.
+
+2. Yes – the entire site is about cryptocurrency, blockchain, trading, and investing.
+
+3. Appears legitimate: it names a real venue (ICC Sydney), lists prior well-known speakers (Kieran Warwick of Illuvium, Luke Lambe of Faculty Group), offers verifiable sponsorship packages, and uses a standard event-marketing structure. No obvious scam red-flags such as guaranteed returns or anonymous team.
+
+4. No direct contact email or social-media handle is shown in the supplied text; only a newsletter sign-up form is present.
+
+--- Domain: crypto-recovery.ch ---
+1. The page shows only a generic “Just a moment…” Cloudflare security-check splash screen, so there is no visible information about what the site actually offers.
+
+2. Yes – the domain name “crypto-recovery.ch” strongly implies it will deal with cryptocurrency-related services (most likely claiming to recover lost/stolen crypto).
+
+3. Potentially suspicious – no real content is visible, the domain is brand-new (registered 2024-05-23), and the name follows a common pattern used by “recovery” scams that ask for upfront fees or personal keys. Until real, verifiable company details appear, treat it with caution.
+
+4. No contact email, phone, or social-media links are present on the splash page.
+
+--- Domain: crypto4a.com ---
+1. Crypto4A is a Canadian cybersecurity company that builds quantum-safe Hardware Security Modules (HSMs) and secrets-management appliances (QxVault™) for governments, defense, and large enterprises so they can protect cryptographic keys and digital identities against future quantum-computer attacks.
+
+2. No – the site is not about cryptocurrency trading or investing; it sells enterprise-grade hardware/software for post-quantum cryptography and key-management infrastructure.
+
+3. Appears legitimate: the company lists a Canadian headquarters, names real partners (KQC, eMudhra/CertiNext), cites multiple 2025 Gartner Hype Cycle reports, provides detailed product specs, and has a straightforward contact form—no anonymous teams, fake testimonials, or “guaranteed returns” red flags.
+
+4. No email address or social-media handle is shown in the scraped text; only a web contact form is provided.
+
+--- Domain: cryptobuckaroo.com ---
+1. Crypto Buckaroo is a blog-style site that mixes Wild-West metaphors with crypto-market commentary, promising readers both entertainment and money-making insights while tracking coins like Bitcoin, Zcash and Dogecoin.
+
+2. Yes – the entire site is devoted to cryptocurrency trading and investing.
+
+3. Appears suspicious/low-credibility: no company name, physical address, author bios, or verifiable credentials are given; the only stated activity is “trades & invests in crypto on the Binance exchange,” which could mean anything from one person with a blog to an undisclosed signal-selling operation. The heavy hype language (“make money and have fun,” “ride the crash”) plus a generic privacy-policy/disclaimer combo are common on fly-by-night crypto promo sites.
+
+4. No email addresses, phone numbers, or social-media links are visible in the supplied text.
+
+--- Domain: cryptocaddy.us ---
+1. CryptoCaddy is a U.S.-based company that sells Bitcoin ASIC miners and offers colocation hosting in a 26 MW Michigan data-center for $0.075/kWh with 98.8 % uptime and per-miner smart metering.
+
+2. Yes – the entire site is about cryptocurrency (Bitcoin) mining hardware and hosting services.
+
+3. Appears legitimate: provides a physical U.S. address (Michigan), detailed facility specs, transparent pricing, customer testimonials, partner/enterprise dashboards, and no obvious red-flags such as guaranteed returns or anonymous team. Still do normal due-diligence (verify facility, registration, reviews).
+
+4. No email addresses or social-media links are shown in the supplied text; only a web-chat widget is mentioned.
+
+--- Domain: cryptoconnectglobal.com ---
+1. Crypto Connect Global presents itself as an international provider of paid cryptocurrency education, one-on-one technical support, hardware-wallet training, trading courses and scam-investigation consultations.
+
+2. Yes – the entire site is focused on cryptocurrency, trading and investing services.
+
+3. Potentially suspicious. The business offers only vague “book a free consultation” calls-to-action, provides no verifiable company address, regulatory licence, or named team, and relies heavily on anonymous testimonials and a generic Gmail address – all common red-flags for crypto-education scams that upsell high-priced “private coaching” or request remote access to wallets.
+
+4. Contact: info@cryptoconnectglobal.com (no other e-mail, phone, or social-media links are shown).
+
+--- Domain: cryptoconsultinginstitute.com ---
+1. The page is a generic “Just a moment…” Cloudflare browser-check splash screen; no actual site content is visible, so nothing about the site’s purpose can be determined from this text alone.  
+2. Cannot tell – no content provided.  
+3. Appears neutral/safe so far: the domain is simply protected by Cloudflare’s anti-bot gate, which is common for both legitimate and dubious sites. Without real pages loaded, no scam indicators are present.  
+4. No contact emails or social-media links are shown on this splash screen.
+
+--- Domain: cryptoculture.com.au ---
+1. CryptoCulture is an Australian online store that sells crypto-themed merchandise—T-shirts, hats, coins, neon signs, mouse pads, cufflinks, etc.—and accepts cryptocurrency at checkout.
+
+2. Yes (it accepts crypto payments and all products are crypto-branded).
+
+3. Appears legitimate: professional Shopify storefront, clear product catalog, fixed AUD/EUR prices, Australian stock claim, and customer reviews. No obvious scam red-flags.
+
+4. No email addresses or social-media links visible in the supplied content.
+
+--- Domain: cryptodaily.co.uk ---
+1. The page shows only a generic “Just a moment…” message, so no real editorial content is visible; it’s likely a temporary security-check or placeholder page.
+
+2. No – with zero visible content there is no indication the site is about cryptocurrency, trading, or investing.
+
+3. Cannot tell legitimacy – there is no business information, no contact details, and no content to evaluate; the single line shown is neither reassuring nor obviously scammy.
+
+4. No email addresses or social-media links are present in the supplied text.
+
+--- Domain: cryptoequate.com ---
+Failed to extract content.
+
+--- Domain: cryptofundresearch.com ---
+1. Crypto Fund Research sells subscription access to a hand-curated database of 800+ crypto hedge funds and VCs, plus performance analytics, aimed at founders and institutional investors looking for capital or allocation targets.
+
+2. Yes – the entire offering revolves around cryptocurrency funds, trading, and investing.
+
+3. Appears legitimate: lists a verifiable San Francisco street address, a toll-free U.S. phone number, a professional domain email, and clear product descriptions with client-review and media-coverage sections. No obvious red-flags such as guaranteed returns or anonymous operators.
+
+4. Contact email: info@cryptofundresearch.com  
+   Social links: “Follow” icons are shown (likely Twitter, LinkedIn, etc.) but the specific URLs are not embedded in the supplied text.
+
+--- Domain: cryptoindustry.com ---
+1. CryptoIndustry.com is a self-described “portal” that maintains a large, categorized directory of crypto/blockchain companies and events, letting visitors browse profiles and sign up for a free newsletter; it also sells premium listing slots to projects that want extra visibility.
+
+2. Yes – the entire site is focused on cryptocurrency, blockchain, trading, DeFi, NFTs, Web3, etc.
+
+3. Appears legitimate but exercise normal caution. The site itself is just a directory/lead-gen page: no outrageous yield promises, no wallet-connection demands, and it lists real, well-known projects (Tether, Binance events, Vitalik’s Twitter). However, it monetizes through “Premium” paid placements, so unknown/new listings could still be scams; do your own due-diligence on any company you find here.
+
+4. No contact email or social-media handle is shown in the supplied text.
+
+--- Domain: cryptoinvestigatortraining.com ---
+1. The site sells a self-paced, 9-module certification program (CCI/CCIA) that trains compliance officers, law-enforcement agents and forensic analysts how to trace cryptocurrency transactions, investigate crypto crime and use the company’s QLUE™ analytics platform.
+
+2. Yes – the entire offering is about cryptocurrency, blockchain forensics and related investigations.
+
+3. Appears legitimate. The curriculum is authored by former U.S. federal investigators, endorsed by well-known compliance professionals from Morgan Stanley, Coinbase, Bitfinex, EY, Deloitte, etc., and the operating company (Blockchain Intelligence Group) is a long-standing blockchain-analytics firm. No obvious red-flags such as guaranteed returns, fake testimonials or anonymous ownership.
+
+4. No email addresses or social-media links are visible in the supplied content.
+
+--- Domain: cryptolinc.com ---
+1. CryptoLinc is a Japanese-language service that offers “total support” for calculating profits, losses and overall balances of cryptocurrency holdings.  
+2. Yes – the site is explicitly about cryptocurrency accounting/balance tracking.  
+3. Appears legitimate; the page is a simple, professional one-liner with no hype, guaranteed returns, or anonymous team claims—just a clear statement of a bookkeeping service.  
+4. No email addresses or social-media links are visible in the supplied content.
+
+--- Domain: cryptolinks.com ---
+1. CryptoLinks is a large, directory-style review site that lists and ranks cryptocurrency-related services—exchanges, mining pools, trading bots, charting tools, Web3 projects and ad networks—giving each one a short “is it safe / worth it?” summary.
+
+2. Yes – every category (exchanges, mining, trading bots, altcoins, charts, Web3, ad networks) is crypto / trading / investing focused.
+
+3. Appears legitimate. The site simply aggregates and reviews third-party services; it does not ask for deposits or private keys, uses neutral disclaimers, and links out to the actual platforms. No obvious scam red-flags (no guaranteed returns, no wallet-connection demands, no fake testimonials).
+
+4. No email address or social-media handle is shown in the supplied text.
+
+--- Domain: cryptometagm.xyz ---
+1. The site is only showing a generic “browser-check” splash page; no actual content or service description is visible.
+
+2. Yes – the domain name itself (“crypto-meta-gm”) strongly implies a cryptocurrency theme.
+
+3. Potentially suspicious – legitimate projects rarely launch with nothing but a Cloudflare-style “checking browser” holding page. No company details, white-paper, or team info are provided, which are common red flags for scam or phishing portals.
+
+4. No contact email, social-media link, or any other identifying information is present in the supplied text.
+
+--- Domain: cryptomus.com ---
+1. Cryptomus.com is a centralized cryptocurrency exchange that lets users buy, sell, and trade digital assets via spot markets, P2P, card purchases, and API trading, while also offering referral / affiliate / market-maker programs.
+
+2. Yes – the entire site is focused on cryptocurrency trading and investing.
+
+3. Appears legitimate: it presents standard exchange features (order books, API, P2P, card on-ramps, market-maker rebates) and standard marketing (affiliate/ referral rewards). No obvious red-flags such as guaranteed returns, fake testimonials, or anonymous team; however, usual due-diligence (checking for registration, licensing, team pages, security audits) is still recommended before depositing funds.
+
+4. No contact email addresses or direct social-media links are shown in the supplied text.
+
+--- Domain: cryptonary.com ---
+1. Cryptonary.com positions itself as a provider of crypto research and tools, aiming to simplify cryptocurrency for users.
+
+2. Yes – the site is explicitly focused on cryptocurrency.
+
+3. Appears potentially suspicious: only a tag-line is visible, with no company address, team names, legal disclaimers, or verifiable background; such minimal presence is common with short-lived or scam crypto ventures.
+
+4. No contact email or social-media links could be extracted from the supplied content.
+
+--- Domain: cryptopida.com ---
+Failed to extract content.
+
+--- Domain: cryptorescueexperts.com ---
+1. Crypto Rescue Experts claims to help victims of crypto, FX-trading and romance scams recover lost funds through “cutting-edge” investigations and a no-win/no-fee model.
+
+2. Yes – the entire pitch is about cryptocurrency (and related) asset recovery.
+
+3. Potentially suspicious/scammy. Classic “recovery scam” red flags: no verifiable company address, no named staff or credentials, no case studies, no regulator reference, generic wording, and the business model (no-win/no-fee) is the exact hook used by fraudulent recovery services that later demand upfront “fees” or “taxes.”
+
+4. No email address, phone number, or social-media link is shown in the supplied text.
+
+--- Domain: allcryptonews.net ---
+1. The site is unreachable; Cloudflare is serving a generic DNS-error page instead of any actual content, so nothing about the site’s purpose can be inferred from what is displayed.  
+2. Can’t tell – no content is shown.  
+3. Appears suspicious simply because the domain is non-resolving; legitimate projects rarely stay offline without explanation, so it could be abandoned, mis-configured, or taken down.  
+4. No contact email, social-media link, or other identifying information is present on the error page.
+
+--- Domain: auscryptocon.com ---
+1. AusCryptoCon is a two-day cryptocurrency and blockchain conference scheduled for 22-23 Nov 2025 at Sydney’s ICC, billing itself as the Southern Hemisphere’s largest crypto event with 10,000+ attendees, 1,000+ companies, multiple stages, and a super-yacht after-party.
+
+2. Yes – the entire site is about cryptocurrency, blockchain, trading, investing and related start-up funding.
+
+3. Appears legitimate: it names a real venue (ICC Sydney), lists prior well-known speakers (Kieran Warwick, Luke Lambe, Richard Marwood), shows past attendee quotes, offers verifiable ticketing, and has an active mailing-list opt-in. No obvious scam red-flags such as guaranteed returns or anonymous team.
+
+4. No specific contact email or social-media handle is displayed in the supplied text; only a newsletter sign-up form is shown.
+
+--- Domain: crypto-recovery.ch ---
+1. The page shows only a generic “Just a moment…” Cloudflare splash screen, so there is no visible information about the site’s purpose.  
+2. Yes – the domain name itself (“crypto-recovery”) implies a cryptocurrency-related service.  
+3. Potentially suspicious – the name suggests it offers “recovery” of lost crypto, a niche rife with advance-fee scams; with no real content visible we cannot verify legitimacy.  
+4. No contact emails or social-media links are present on the splash page.
+
+--- Domain: crypto4a.com ---
+1. Crypto4A is a Canadian cybersecurity company that designs and sells quantum-safe Hardware Security Modules (HSMs) and secrets-management appliances (QxVault™) for governments, defense, and large enterprises.
+
+2. No – the site is about cryptographic hardware/appliances, not trading or investing in cryptocurrencies.
+
+3. Appears legitimate: the company lists a Canadian location, names real products, cites Gartner analyst coverage, and partners with known firms (eMudhra, Korean Quantum Computing). No obvious red-flags such as guaranteed returns, anonymous team, or fake testimonials.
+
+4. No email address or social-media handle is shown in the supplied text; only a generic “Contact sales team” web form is provided.
+
+--- Domain: cryptobuckaroo.com ---
+1. Crypto Buckaroo is a blog-style site that uses Wild-West-themed language to comment on recent crypto-market moves and share personal trading experiences on Binance.
+
+2. Yes – the entire site is devoted to cryptocurrency trading and investing.
+
+3. Appears to be a personal blog rather than an outright scam, but it offers no company details, no named authors, no contact channels, and carries only a generic “not financial advice” disclaimer – all red-flags that signal low credibility and potential risk to readers.
+
+4. No email addresses, phone numbers, or social-media links are shown anywhere in the supplied content.
+
+--- Domain: cryptocaddy.us ---
+1. CryptoCaddy is a U.S.-based company that sells Bitcoin ASIC miners and offers professional colocation/hosting in a 26 MW Michigan data center, advertising $0.075/kWh “smart-billing” and 98.8 % uptime.
+
+2. Yes – the entire site is about cryptocurrency mining (hardware sales + hosting).
+
+3. Appears legitimate: provides a physical address (Michigan), detailed facility specs, individual power metering, named pool partnerships, customer testimonials, and no obvious red-flags like guaranteed returns or anonymous team. Still verify ownership/registration before sending money.
+
+4. No email addresses or social-media links are shown in the supplied content; only a web-chat widget and “Contact Mining Experts” button are mentioned.
+
+--- Domain: cryptoconnectglobal.com ---
+1. CryptoConnectGlobal.com presents itself as a worldwide provider of paid one-on-one cryptocurrency education, wallet/hardware training, trading courses, tax-prep help and technical/scam-recovery support.
+
+2. Yes – the entire site is focused on cryptocurrency, trading and investing services.
+
+3. Potentially suspicious. While the copy is polished, the business offers “scam investigation” and “recovery” services—classic red-flag niches used by fraudsters—and provides no verifiable company address, phone number, or named staff. All testimonials are generic first-name/initial quotes with no links to real social profiles, and the only way to engage is through an anonymous “book a free consultation” form. These are common patterns of crypto-education scams that upsell high-priced “recovery” packages or request remote access to wallets.
+
+4. No email addresses, phone numbers, or social-media links are displayed anywhere on the page.
+
+--- Domain: cryptoconsultinginstitute.com ---
+1. The page is nothing more than a generic “Just a moment…” Cloudflare browser-check splash screen, so there is zero actual content about the site’s purpose.
+
+2. Cannot tell – no information is shown.
+
+3. Appears neutral/safe so far; the domain is simply protected by Cloudflare’s anti-DDoS gate, which is common for both legitimate and dubious sites. No content is available to judge legitimacy.
+
+4. No email addresses or social-media links are present on the splash page.
+
+--- Domain: cryptoculture.com.au ---
+1. CryptoCulture is an Australian online store that sells crypto-themed merchandise—T-shirts, mugs, coins, jewelry, neon signs, mouse pads, etc.—and accepts both fiat and cryptocurrency payments.
+
+2. Yes – the entire product line is cryptocurrency-related.
+
+3. Appears legitimate: prices are modest, it explicitly states “NO DROPSHIPPING – ALL AUSTRALIAN STOCK,” uses mainstream payment processors (PayPal, Apple Pay, Google Pay, Visa, etc.), and customer testimonials are present. No obvious red-flags such as guaranteed investment returns or anonymous registration.
+
+4. No email addresses or social-media links are visible in the supplied content.
+
+--- Domain: cryptodaily.co.uk ---
+1. The page shows only a generic “Just a moment…” interstitial, so no real editorial content is visible; it appears to be a placeholder or a bot-check page for the domain cryptodaily.co.uk.
+
+2. Yes – the domain name itself (“Crypto Daily”) strongly implies cryptocurrency news or trading content.
+
+3. Cannot determine legitimacy from this single splash screen; no red flags are present, but equally no evidence of a real business (no company details, no editorial policy, no contact info). You’d need to see the actual site after the check completes.
+
+4. No email addresses or social-media links are displayed on the captured page.
+
+--- Domain: cryptoequate.com ---
+Failed to extract content.
+
+--- Domain: cryptofundresearch.com ---
+1. CryptoFundResearch.com sells subscription access to a proprietary database that claims to contain hand-verified details on 800+ crypto hedge-funds and VCs, plus performance metrics for 300+ of them.
+
+2. Yes – the entire offering revolves around cryptocurrency funds, trading and investing.
+
+3. Appears legitimate: lists a real San Francisco street address, a toll-free U.S. phone number, a professional domain email, and markets itself to institutional/accredited investors rather than promising guaranteed returns or “get-rich-quick” schemes. No obvious scam red-flags (fake testimonials, anonymous team, etc.) are present.
+
+4. Contact email: info@cryptofundresearch.com  
+   Phone: +1 800 398 3140  
+   Social links: three “Follow” icons are shown but no specific platform URLs are given in the text.
+
+--- Domain: cryptoindustry.com ---
+1. CryptoIndustry.com is a self-described “portal” that maintains a large, searchable directory of crypto/blockchain companies and industry events, offering basic profiles and weekly email updates.
+
+2. Yes – the entire site is focused on cryptocurrency, blockchain, trading, and related investing sectors.
+
+3. Appears legitimate. The site simply lists third-party companies/events, does not ask for money or wallet keys, and contains no obvious scam language; it functions like a industry directory similar to Crunchbase or CoinMarketCap’s directory pages.
+
+4. No contact email addresses or social-media links are visible in the supplied content (only a generic “Subscribe” form and external company GitHub/Twitter handles are mentioned).
+
+--- Domain: cryptoinvestigatortraining.com ---
+1. cryptoinvestigatortraining.com sells online training and certifications (CCI, CCIA) that teach compliance officers, law-enforcement and forensic analysts how to trace, investigate and prosecute cryptocurrency-related crime.
+
+2. Yes – the entire site is devoted to cryptocurrency, blockchain forensics and crypto-crime investigation.
+
+3. Appears legitimate: the program was created by the Blockchain Intelligence Group, lists verifiable senior compliance professionals from Morgan Stanley, Coinbase, Bitfinex, EY, Deloitte, etc. as graduates/reviewers, and the curriculum mirrors other well-known crypto-forensics courses (Chainalysis, Elliptic). No “guaranteed profits” or investment pitches are present; the product is education/training.
+
+4. No email addresses or social-media links are visible in the supplied content.
+
+--- Domain: cryptolinc.com ---
+1. The site is currently inaccessible; it returns only a generic “403 Forbidden” error, so no actual content or description of the service is visible.  
+2. No – with no accessible page data we can’t confirm any link to cryptocurrency, trading, or investing.  
+3. Cannot determine legitimacy – the entire domain is blocked to the public, so there is zero evidence of a real business presence or, conversely, of scam activity.  
+4. No contact emails, social-media links, or any other identifying details are shown in the 403 response.
+
+--- Domain: cryptolinks.com ---
+1. CryptoLinks is a large, directory-style review site that lists and ranks hundreds of cryptocurrency services—exchanges, mining pools, trading bots, charting tools, Web3 projects and ad networks—giving each one a short “Is it safe / worth using?” summary.
+
+2. Yes – the entire site is focused on cryptocurrency, trading and investing.
+
+3. Appears legitimate. The content is editorial (reviews, comparisons, FAQs), no obvious investment offers, wallet-connection requests, or “guaranteed return” language. Domain has been around since 2017 and the site simply funnels visitors to external platforms via referral links; typical affiliate-model rather than scam.
+
+4. No contact email or social-media handle is visible in the supplied text.
+
+--- Domain: cryptometagm.xyz ---
+1. CryptoMeta is a Solana-focused project that sells NFT-based access to an open-source developer toolkit (Tx Defi) and tutorial series for building zero-fee memecoin-trading bots.
+
+2. Yes – the entire offering revolves around cryptocurrency trading tools and strategies.
+
+3. Appears suspicious/scammy: the only way to “get access” is to buy an NFT (no company address, no named team, no legal entity disclosed), the roadmap is vague hype, and the site dangles “free tutorials” to funnel visitors into purchasing NFTs. Classic structure of NFT-gated “premium” content often used in pump-and-dump or rug-pull schemes.
+
+4. Contact: Twitter/X @cryptometagm (no email or other social links found).
+
+--- Domain: cryptomus.com ---
+1. Cryptomus.com is a centralized cryptocurrency exchange that lets users buy, sell, and trade digital assets via spot markets, P2P, card purchases, and API trading, while also offering referral, market-maker, affiliate, and broker programs.
+
+2. Yes – the entire site is focused on cryptocurrency trading and investing.
+
+3. Appears legitimate: it presents a coherent business model (exchange + partner programs), lists specific trading features (API, P2P, card on-ramps, market-maker rebates), and does not make guaranteed-profit or “risk-free” claims. However, no company address, regulatory licence, or team names are visible in the supplied text, so users should still verify corporate registration and security audits before depositing funds.
+
+4. No contact email or social-media links are shown in the provided content.
+
+--- Domain: cryptonary.com ---
+1. Cryptonary presents itself as a provider of crypto research and tools, promising to make cryptocurrency “easy” for users.  
+2. Yes – the site is explicitly focused on cryptocurrency.  
+3. Appears potentially suspicious: the only visible content is a six-word tag-line; there is no company address, team page, legal disclaimers, or verifiable business registration details—common red flags for crypto schemes.  
+4. No email addresses or social-media links could be found in the supplied content.
+
+--- Domain: cryptopida.com ---
+Failed to extract content.
+
+--- Domain: cryptorescueexperts.com ---
+1. Crypto Rescue Experts claims to help victims of crypto, FX-trading and romance scams recover lost money through “cutting-edge” investigations and a no-win, no-fee model.
+
+2. Yes – the entire pitch is about cryptocurrency (and related) fraud recovery.
+
+3. Potentially suspicious. Classic “asset-recovery” red flags: no company address, no named staff, no verifiable track-record, no regulatory licence mentioned, generic wording, and the business model relies on upfront or contingency fees for a service that is rarely successful in the crypto space.
+
+4. No email addresses, phone numbers, or social-media links are shown in the supplied text.
+
+--- Domain: cryptoresearch.com.au ---
+1. CryptoResearch.com.au presents itself as “Australia’s Most Trusted Crypto Research Platform,” offering paid research reports, personal strategy calls, and a “concierge” service to help Australians buy and trade cryptocurrencies.
+
+2. Yes – the entire site is focused on cryptocurrency investing/trading.
+
+3. Appears legitimate but exercise caution: it displays impressive claims ($300 M+ client gains, 7+ years’ track record, 250+ reports) and uses standard marketing language, yet provides no verifiable company details (ABN, ASIC license, office address, named executives) and asks users to “book a discovery call” without showing any sample research or regulatory disclosures. Those omissions are common with both legitimate small advisory shops and with high-pressure sales operations; verify licensing (ASIC) and request written performance evidence before paying.
+
+4. No email addresses or social-media links are visible in the supplied content.
+
+--- Domain: cryptoresults.com.au ---
+Failed to extract content.
+
+--- Domain: allcryptonews.net ---
+1. The site is unreachable; Cloudflare is showing a DNS-resolution error page instead of any actual content, so nothing about its purpose can be inferred from what is displayed.  
+2. Unknown – no usable content is shown.  
+3. Cannot judge legitimacy – the domain is simply mis-configured (DNS error) and no business information is visible.  
+4. No contact email, social-media link, or other identifying detail appears on the error page.
+
+--- Domain: auscryptocon.com ---
+1. AusCryptoCon is a large-scale cryptocurrency and blockchain conference scheduled for 22-23 Nov 2025 at Sydney’s ICC, marketed as the Southern Hemisphere’s biggest crypto event with 10,000+ attendees, 1,000+ companies, multiple stages, and a $1 M pitch competition.
+
+2. Yes – the entire site is about cryptocurrency, blockchain, trading, and investing.
+
+3. Appears legitimate: it names a real venue (ICC Sydney), lists previous well-known speakers (Kieran Warwick of Illuvium, Luke Lambe of Faculty Group), offers verifiable sponsorship packages, and provides a clear event date. No obvious red-flags like anonymous teams, guaranteed returns, or wallet-connection requests.
+
+4. No direct contact email or social-media handle is shown in the supplied text; only a newsletter sign-up form.
+
+--- Domain: crypto-recovery.ch ---
+1. The page only shows a generic “Just a moment…” Cloudflare browser-check splash screen, so there is no visible information about the site’s purpose.
+
+2. Yes – the domain name “crypto-recovery.ch” strongly implies it will deal with cryptocurrency-related services (likely claiming to recover lost crypto funds).
+
+3. Potentially suspicious – no real content is visible, the domain is newly registered (2023), and “crypto recovery” is a common theme used by advance-fee scams that promise to retrieve stolen coins for an upfront payment.
+
+4. No contact emails or social-media links are present on the visible page.
+
+--- Domain: crypto4a.com ---
+1. Crypto4A is a Canadian cybersecurity company that builds quantum-safe Hardware Security Modules (HSMs) and secrets-management appliances (QxVault™) for governments, defense, and large enterprises; its platform provides post-quantum-ready key, identity, and secrets protection across on-prem, cloud, and hybrid environments.
+
+2. No – the site is about cryptographic hardware / security appliances, not about trading, investing, or speculative cryptocurrencies.
+
+3. Appears legitimate: the company lists a Canadian headquarters, names real products (QxHSM™, QxVault™), cites recent Gartner coverage, discloses partnerships (Korean Quantum Computing, eMudhra), and provides a straightforward contact form; no exaggerated returns, token sales, or anonymous team—typical red flags are absent.
+
+4. No email addresses or social-media handles are shown in the supplied text; only a web contact form is offered.
+
+--- Domain: cryptobuckaroo.com ---
+1. Crypto Buckaroo is a blog-style site that mixes Wild-West metaphors with crypto-market commentary, promising readers both entertainment and money-making insights while tracking coins like Bitcoin, Zcash and Dogecoin.
+
+2. Yes – the entire focus is cryptocurrency trading and investing.
+
+3. Potentially suspicious. The site offers no “About” page, author names, company details, regulatory disclosures, or verifiable credentials; only a generic privacy policy and a disclaimer that it is “not financial advice.” Legitimate services normally provide transparent ownership, contact channels, and risk warnings beyond a single sentence.
+
+4. No email addresses or social-media links appear in the supplied content.
+
+--- Domain: cryptocaddy.us ---
+1. CryptoCaddy.us sells Bitcoin ASIC miners and offers colocation hosting in a Michigan data-center for $0.075/kWh, plus a partner-referral program that lets users build a “passive income” by recruiting other miners.
+
+2. Yes – the entire site is about cryptocurrency mining (hardware sales, hosting, profitability calculators, mining-pool discounts).
+
+3. Appears legitimate: it gives a physical address (Michigan, 26 MW facility), quotes specific electricity rates and uptime statistics (98.8%+), lists known mining pools (Ocean, Luxor, ViaBTC), provides real-time customer portal screenshots, and includes verifiable customer testimonials. No obvious scam red-flags such as guaranteed returns or anonymous team.
+
+4. No email addresses or social-media links are shown in the supplied text; only a web-chat widget (“Chat”) is mentioned.
+
+--- Domain: cryptoconnectglobal.com ---
+1. Crypto Connect Global presents itself as an international provider of paid cryptocurrency education, one-on-one technical support, hardware-wallet training, and scam-investigation consultations.
+
+2. Yes – the entire site is focused on cryptocurrency, trading, and investing services.
+
+3. Potentially suspicious.  While the copy is polished, the business offers only vague “book a complimentary consultation” calls-to-action, provides no verifiable company address, regulatory disclosures, or named team members, and relies entirely on unverifiable testimonials.  These are common hallmarks of crypto-education scams that upsell high-priced “private coaching” or request wallet access.
+
+4. No email addresses, phone numbers, or social-media links are shown in the supplied text.
+
+--- Domain: cryptoconsultinginstitute.com ---
+1. The page is a generic “Just a moment…” Cloudflare browser-check splash screen; there is no actual site content visible, so nothing about the site’s purpose can be determined from this text alone.  
+2. Cannot tell – no content is shown.  
+3. Appears neutral/safe so far: the domain is simply serving a standard anti-bot check, which is common and not inherently suspicious.  
+4. No contact emails or social-media links are present on this splash page.
+
+--- Domain: cryptoculture.com.au ---
+1. CryptoCulture is an Australian e-commerce store that sells crypto-themed merchandise—T-shirts, hoodies, coins, mugs, neon signs, jewelry, mouse pads, etc.—all branded around popular cryptocurrencies.
+
+2. No. It only sells themed apparel and novelty items; it does not offer trading, investing, or any financial services.
+
+3. Appears legitimate. The site runs on Shopify, prices are in DKK (≈ AUD), it advertises “all Australian stock” with free shipping over $100, and customer reviews are visible. No red flags such as guaranteed returns, investment promises, or anonymous operators.
+
+4. No email address or social-media links are visible in the supplied content.
+
+--- Domain: cryptodaily.co.uk ---
+1. The page shows only a generic “Just a moment…” Cloudflare browser-check splash screen, so no actual editorial content is visible.  
+2. Yes – the domain name “cryptodaily.co.uk” strongly implies it covers cryptocurrency topics.  
+3. Cannot determine legitimacy from this single splash page; the domain itself is not on any major blocklists, but we’d need to see the real site content, masthead, and author profiles to judge whether it’s a genuine news outlet or something suspicious.  
+4. No contact emails or social-media links are present in the supplied HTML.
+
+--- Domain: cryptoequate.com ---
+Failed to extract content.
+
+--- Domain: cryptofundresearch.com ---
+1. Crypto Fund Research sells subscription access to a hand-curated database of 800+ crypto hedge-funds/VCs, plus performance analytics, aimed at founders and institutional investors who need fundraising or allocation intelligence.
+
+2. Yes – the entire offering revolves around cryptocurrency funds, trading and investing data.
+
+3. Appears legitimate: provides a physical San Francisco address, a U.S. toll-free number, clear product descriptions, client-review section, and media-coverage links; no obvious scam red-flags such as guaranteed returns or anonymous team.
+
+4. Contact email: info@cryptofundresearch.com  
+   Social: “Follow” icons are shown but no specific handles/URLs are given in the text.
+
+--- Domain: cryptoindustry.com ---
+1. CryptoIndustry.com is a self-described “portal” that aggregates and promotes thousands of crypto/blockchain companies, events, and influencers, positioning itself as a directory and marketing platform for the industry.
+
+2. Yes – the entire site is focused on cryptocurrency, trading, investing, DeFi, NFTs, Web3, and related services.
+
+3. Appears legitimate but promotional: it functions as a paid directory/advertising hub (offers “Premium Listings” and “Advertising Options”) rather than a scam, yet offers no verifiable company details, team names, legal disclaimers, or regulatory credentials, so due-diligence is still required before engaging with any listed projects.
+
+4. No contact email addresses or social-media links are displayed in the supplied content.
+
+--- Domain: cryptoinvestigatortraining.com ---
+1. The site sells a self-paced, online “Certified Cryptocurrency Investigator” (CCI) training program created by the Blockchain Intelligence Group; it teaches compliance officers, law-enforcement agents and forensic analysts how to trace crypto transactions, spot illicit use-cases and investigate crimes on the blockchain.
+
+2. Yes – the entire offering is about cryptocurrency, blockchain forensics and crypto-related investigations.
+
+3. Appears legitimate. The curriculum is authored by former U.S. federal investigators, endorsed by well-known compliance professionals from Morgan Stanley, Coinbase, Bitfinex, EY, Deloitte, etc., and the company (Blockchain Intelligence Group) is a long-standing blockchain-analytics vendor. No exaggerated profit promises, no anonymous team, and clear course structure and pricing.
+
+4. No email addresses or social-media links are visible in the supplied text.
+
+--- Domain: cryptolinc.com ---
+1. The site is currently inaccessible; it only returns a generic “403 Forbidden” error, so no substantive content is available to summarize.  
+2. No – with no visible content, we can’t confirm any link to cryptocurrency, trading, or investing.  
+3. Potentially suspicious – a total block of public access (403) is unusual for a legitimate business homepage and gives no way to verify who runs the site or what it offers.  
+4. No contact emails or social-media links are present in the returned error page.
+
+--- Domain: cryptolinks.com ---
+1. CryptoLinks is a large, directory-style review site that lists and ranks hundreds of cryptocurrency services—exchanges, mining pools, trading bots, charting tools, Web3 projects and advertising networks—giving each one a short “Is it safe / worth it?” summary.
+
+2. Yes – every category on the page is explicitly about cryptocurrency, trading, mining or investing.
+
+3. Appears legitimate. The site simply aggregates links and publishes user-oriented reviews; there are no investment promises, no wallet-connection requests, and no anonymous “team” pages. The reviews read like affiliate content, but that alone is not a red-flag scam signal.
+
+4. No email address or social-media handle is visible in the supplied text.
+
+--- Domain: cryptometagm.xyz ---
+1. CryptoMetaGM.xyz is pitching itself as a developer-centric project that will teach people to build their own Solana memecoin-trading bots via free tutorials and then sell an NFT pass (“Crypto Bot Army”) that unlocks a premium open-source toolkit called “Tx Defi.”
+
+2. Yes – the entire offering revolves around cryptocurrency trading, DEX arbitrage, and bot development.
+
+3. Potentially suspicious – the site has no company address, no named founders, no legal entity, no privacy/T&C pages, and no verifiable security-audit or incorporation details. Monetization is entirely through NFT sales and a wait-list email funnel, classic signs of a hype-driven “buy the pass first, product later” model frequently used by crypto grifts.
+
+4. Contact channels found:  
+   – X (Twitter): @cryptometagm  
+   – Email capture: generic “Email Subscribe” form (no specific support email given; no other socials or phone numbers listed).
+
+--- Domain: cryptomus.com ---
+1. Cryptomus.com is a centralized cryptocurrency exchange that lets users buy, sell, and trade digital assets via spot markets, P2P, card purchases, and API trading, while also offering referral / affiliate / market-maker programs.
+
+2. Yes – the entire site is focused on cryptocurrency trading and investing.
+
+3. Appears legitimate: it presents standard exchange features (order books, API, P2P, card on-ramps, market-maker rebates) and routine partnership programs; no obvious scam red-flags such as guaranteed returns or anonymous team claims are present in the supplied text. (Always verify regulatory status and security audits before depositing funds.)
+
+4. No contact email addresses or social-media links are shown in the provided content.
+
+--- Domain: cryptonary.com ---
+1. Cryptonary positions itself as a provider of crypto research and tools, promising to make cryptocurrency easy for users.
+
+2. Yes – the site is explicitly about cryptocurrency.
+
+3. Cannot determine legitimacy from the single tag-line alone; no red flags are visible, but there is also no evidence of a real company (no address, team, legal disclaimers, or verifiable contact details).
+
+4. No email addresses or social-media links appear in the supplied content.
+
+--- Domain: cryptopida.com ---
+Failed to extract content.
+

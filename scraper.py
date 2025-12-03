@@ -77,7 +77,11 @@ async def scrape_ads_transparency(queries, region="AU", max_pages=1, headless=Tr
                         continue
 
                     # Scraping loop
-                    for page_num in range(max_pages):
+                    page_num = 0
+                    while True:
+                        if max_pages > 0 and page_num >= max_pages:
+                            break
+
                         print(f"Scraping page {page_num + 1} for '{query}'...")
                         await page.wait_for_timeout(2000) # Wait for content to load
 
@@ -135,22 +139,29 @@ async def scrape_ads_transparency(queries, region="AU", max_pages=1, headless=Tr
                         print(f"Found {found_on_page} new domains on page {page_num + 1}.")
 
                         # Pagination
-                        if page_num < max_pages - 1:
-                            next_button = page.locator("material-button[aria-label='Next page']").or_(page.locator("div[aria-label='Next page']"))
-                            
-                            if await next_button.count() > 0:
-                                 if await next_button.first.get_attribute("aria-disabled") == "true":
-                                     print("Next button is disabled. Reached end of results.")
-                                     break
-                                     
-                                 print("Clicking Next page...")
-                                 try:
+                        next_button = page.locator("material-button[aria-label='Next page']").or_(page.locator("div[aria-label='Next page']"))
+                        
+                        if await next_button.count() > 0:
+                                if await next_button.first.get_attribute("aria-disabled") == "true":
+                                    print("Next button is disabled. Reached end of results.")
+                                    break
+                                
+                                # If we are about to stop due to max_pages, don't click next
+                                if max_pages > 0 and page_num >= max_pages - 1:
+                                    break
+
+                                print("Clicking Next page...")
+                                try:
                                     await next_button.first.click()
-                                 except:
+                                except:
                                     await next_button.first.click(force=True)
-                            else:
-                                print("Next button not found.")
-                                break
+                                
+                                await page.wait_for_timeout(2000) # Wait for next page load
+                        else:
+                            print("Next button not found.")
+                            break
+                        
+                        page_num += 1
                 
                 except Exception as e:
                     print(f"Error during processing of '{query}': {e}")
@@ -164,7 +175,8 @@ async def scrape_ads_transparency(queries, region="AU", max_pages=1, headless=Tr
 
 def main():
     parser = argparse.ArgumentParser(description="Scrape Google Ads Transparency Center")
-    parser.add_argument("queries", nargs='+', help="The search queries (e.g., 'Nike' 'Google')")
+    parser.add_argument("queries", nargs='*', help="The search queries (e.g., 'Nike' 'Google')")
+    parser.add_argument("--query-file", help="File containing search queries (one per line)")
     parser.add_argument("--region", default="AU", help="Region code (default: AU)")
     parser.add_argument("--max-pages", type=int, default=1, help="Maximum number of pages to scrape per query")
     parser.add_argument("--visible", action="store_true", help="Run browser in visible mode (not headless)")
@@ -172,11 +184,25 @@ def main():
     
     args = parser.parse_args()
     
-    if not args.queries:
-        print("Please provide at least one search query.")
+    queries = args.queries
+    if args.query_file:
+        if os.path.exists(args.query_file):
+            try:
+                with open(args.query_file, 'r', encoding='utf-8') as f:
+                    file_queries = [line.strip() for line in f if line.strip()]
+                    queries.extend(file_queries)
+            except Exception as e:
+                print(f"Error reading query file: {e}")
+                sys.exit(1)
+        else:
+            print(f"Error: Query file '{args.query_file}' not found.")
+            sys.exit(1)
+
+    if not queries:
+        print("Please provide at least one search query via command line or --query-file.")
         sys.exit(1)
 
-    asyncio.run(scrape_ads_transparency(args.queries, args.region, args.max_pages, headless=not args.visible, output_file=args.output))
+    asyncio.run(scrape_ads_transparency(queries, args.region, args.max_pages, headless=not args.visible, output_file=args.output))
 
 if __name__ == "__main__":
     main()
