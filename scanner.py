@@ -12,8 +12,8 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv(override=True)
 
-# API_KEY = os.getenv("MOONSHOT_API_KEY")
-API_KEY = "sk-tjtcxB4I80RFfhPVqaL1Ot5tQNw4nC7PBF88SWkMrG4C1bjV"
+API_KEY = os.getenv("MOONSHOT_API_KEY")
+# API_KEY = "sk-tjtcxB4I80RFfhPVqaL1Ot5tQNw4nC7PBF88SWkMrG4C1bjV"
 
 if not API_KEY or API_KEY == "your_api_key_here":
     print("Error: MOONSHOT_API_KEY not found or not set in .env file.")
